@@ -49,10 +49,10 @@ Após a execução do script, ele produzirá a seguinte saída:
 
 ## Exemplo de Saída
 
-Velocidade de Upload: 10.23 Mbps
-Velocidade de Download: 50.65 Mbps
-Latência Média: 25.34 ms
-Taxa de Perda de Pacotes: 2.5 %
+- Velocidade de Upload: 10.23 Mbps
+- Velocidade de Download: 50.65 Mbps
+- Latência Média: 25.34 ms
+- Taxa de Perda de Pacotes: 2.5 %
 
 ## Observações
 
