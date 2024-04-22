@@ -1,8 +1,9 @@
-# Documentação do Script de Teste de Velocidade e Latência
+#Script de Teste de Velocidade e Latência
 
 ## Visão Geral
 
-Este script Python permite testar a velocidade da conexão com a internet, bem como a latência e a perda de pacotes para um determinado destino. Ele utiliza as bibliotecas `speedtest-cli` para medir a velocidade da conexão, `ping3` para testar a latência e `matplotlib` para gerar gráficos dos resultados.
+
+Este script Python permite testar a velocidade da conexão entre pontos específicos da rede, bem como a latência e a perda de pacotes para esses destinos. Utiliza as bibliotecas `iperf3` para medir a velocidade da conexão, `ping3` para testar a latência e `matplotlib` para gerar gráficos dos resultados.
 
 ## Requisitos
 
